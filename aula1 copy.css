@@ -1,0 +1,17 @@
+.dark{
+  background-image: url("https://a-static.besthdwallpaper.com/overwatch-video-game-dark-logo-papel-de-parede-24457_L.jpg");
+
+}
+
+.dark.container{
+  background-color: #020101;
+  color:#fffefe;
+  -webkit-box-shadow: -9px -15px 18px -2px #fffefe;;
+  box-shadow: -9px -15px 18px -2px #fffefe;
+
+}
+
+.dark .cabecalho {
+  background: linear-gradient(236.85deg, #0c0c0cd5 27.26%, #0d1216 196.03%);
+
+}
